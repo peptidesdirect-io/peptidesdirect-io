@@ -1,3 +1,5 @@
+![PeptidesDirect](banner.png)
+
 ## PeptidesDirect
 
 EU research-peptide supplier with independent, third-party per-batch lab testing (Certificates of Analysis) and open, cited reference tools for the research community.
