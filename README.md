@@ -1,4 +1,4 @@
-![PeptidesDirect](banner.png)
+[![PeptidesDirect storefront](homepage.png)](https://peptidesdirect.io)
 
 ## PeptidesDirect
 
